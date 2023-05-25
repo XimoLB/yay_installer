@@ -44,7 +44,7 @@ Contributions to this project are welcome! If you have any suggestions, bug repo
 
 ## Author
 
-- [Ximo](https://github.com/your-username)
+- [XimoLB](https://github.com/XimoLB)
 
 ---
 
@@ -94,7 +94,7 @@ Este proyecto está licenciado bajo la licencia Creative Commons Attribution CC 
 
 ## Autor
 
-- [Ximo](https://github.com/your-username)
+- [XimoLB](https://github.com/XimoLB)
 
 ---
 
